@@ -1,0 +1,16 @@
+.card {
+background-image: url("https://d2clawv67efefq.cloudfront.net/ccbp-static-website/ocean.jpg");
+    text-align: center;
+    width: 400px;
+}
+.main-heading {
+    color: blue;
+    font-family: "Roboto";
+    font-size: 36px;
+    font-style: italic;
+    font-weight: bold;
+}
+.paragraph {
+    color: grey;
+    height: 50px;
+}

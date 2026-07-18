@@ -1,0 +1,36 @@
+.card {
+    background-color: skyblue;
+    text-align: center;
+    width: 400px;
+    height: 340px;
+}
+.main-heading {
+    color: blue;
+    font-size: 22px;
+}
+.paragraph {
+    color: grey;
+    height: 
+}
+.heading2{
+    font-family: "caveat";
+    font-size: 30px;
+    text-decoration: underline;
+
+}
+.heading3{
+    font-style: italic;
+    text-decoration: line-through;
+}
+.heading4{
+    font-weight:bolder;
+}
+
+.card1 {
+    background-image : url("https://d2clawv67efefq.cloudfront.net/ccbp-static-website/ocean.jpg");
+    text-align: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 50vh;
+    width : 50vw;
+}
