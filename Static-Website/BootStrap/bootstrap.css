@@ -1,0 +1,18 @@
+.main-heading {
+    font-family: "Roboto";
+}
+.paragraph {
+    font-family: "Roboto";
+}
+.sectionsLabel{
+    color: red;
+    font-weight: bold;
+    font-size: 14px;
+}
+.customtext{
+    font-size: 13px;
+}
+.custombutton{
+    height: 30px;
+    width: 130px;
+}
