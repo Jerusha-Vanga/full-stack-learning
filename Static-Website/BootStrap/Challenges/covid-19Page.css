@@ -1,0 +1,86 @@
+@import url("https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap");
+
+.covid-19-bg-container{
+    background-color: white;
+    border-style: solid;
+    border-width: 2px;
+    border-color: #0967d219;
+    margin:10px;
+    padding: 10px;
+    margin-left: 34vw;
+    margin-right: 34vw;
+}
+.covid-info-heading{
+    color:#707070;
+    font-size: 18px;
+    font-weight: 400;
+    font-family: "Roboto";
+    padding-top: 10px;
+}
+.covid-info-text{
+    width: 180px;
+}
+.know-button{
+    padding: 5px;
+    width: 100px;
+    height: 30px;
+    border-radius: 8px;
+    font-size: 12px;
+}
+.covid-test-card{
+    background-color: #0967d219;
+    margin-top:23px;
+    border-radius: 15px;
+    padding: 17px;
+}
+.covid-test-video-card{
+    background-color: #e12d3919;
+    margin-top:23px;
+    border-radius: 15px;
+    padding: 17px;
+}
+.corona-test-text{
+    color: #707070;
+    margin-left: 25px;
+    padding-top: 5px;
+}
+.corona-test-title{
+    font-size: 16px;
+}
+.corona-test-description{
+    font-size: 13px;
+    font-weight: 500;
+}
+.corona-image{
+    height: 70px;
+    padding-top: 8px;
+}
+.corona-sub-heading{
+    color: #707070;
+    font-size: 16px;
+    margin-top: 23px;
+}
+.corona-cough-card{
+    background-color: #3ebd93;
+    margin:10px;
+    border-radius: 12px;
+    padding: 8px;
+    color: white;
+    font-size: 12px;
+}
+.corona-fever-card{
+    background-color: #e668a7;
+    margin:10px;
+    border-radius: 12px;
+    padding: 8px;
+    color: white;
+    font-size: 12px;
+}
+.corona-headache-card{
+    background-color: #a368fc;
+    margin:10px;
+    border-radius: 12px;
+    padding: 8px;
+    color: white;
+    font-size: 12px;
+}

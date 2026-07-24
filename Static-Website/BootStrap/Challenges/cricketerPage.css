@@ -1,0 +1,69 @@
+@import url("https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap");
+
+.cricket-top-section {
+    background-color: #fb4e71;
+    padding: 10px;
+    margin-left: 37vw;
+    margin-right: 37vw;
+    margin-top:5vh
+}
+
+.cricker-name {
+    color: #ffffff;
+    font-family: "Roboto";
+    font-weight: bold;
+    font-size: 28px;
+}
+
+.cricket-description {
+    color: #ffffff;
+    font-size: 14px;
+    font-family: "Roboto";
+}
+.cricketer-bottom-section{
+    background-color:#e6f6ff;
+    height: 500px;
+    padding: 10px;
+    margin-left: 37vw;
+    margin-right: 37vw;
+}
+
+.sub-heading {
+    color: #323f4b;
+    font-size: 16px;
+    font-weight: bold;
+    font-family: "Roboto";
+    padding: 8px;
+}
+
+.cricketer-ipl-records-card{
+    background-color: #ffffff;
+    margin:5px;
+    border-radius: 12px;
+}
+.cricketer-ipl-records-text-container{
+    padding: 8px;
+}
+
+.cricketer-ipl-records-card-heading {
+    font-size: 14px;
+    font-family: "Roboto";
+    color: #323f4b;
+    font-weight: 500;
+}
+
+.cricketer-ipl-records-description {
+    color: #888888;
+    font-family: "Roboto";
+    font-size: 14px;
+}
+
+.cricketer-vdeo-text-container {
+    margin: 5px;
+    width: 96px;
+}
+
+.cricketer-vdeo-description {
+    font-family: "Roboto";
+    font-size: 12px;
+}
