@@ -2,10 +2,10 @@
 .bg-container{
     background-image: url("https://d2clawv67efefq.cloudfront.net/ccbp-static-website/foodbg.png");
     background-size: cover;
-    height: 96vh;
-    margin-left: 36vw;
-    margin-right: 36vw;
-    margin-top: 10px;
+    height: 95vh;
+    margin-left: 35vw;
+    margin-right: 35vw;
+    margin-top: 5vh;
     margin-bottom: 3px;
 }
 .food-card{
